@@ -1,18 +1,12 @@
+![header](https://capsule-render.vercel.app/api?type=slice&color=FFC7F0&height=300&section=header&text=Eunsung%20Kim&fontSize=90)
+
 ### Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=ffc7f0&height=300&section=header&text=Eunsung%20Kim&fontSize=90)
+skills
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=Android%20Studio&logoColor=white"/>
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
 
-<!--
-**esk147/esk147** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+projects
+- 향기, 향수 추천 및 커스텀 향수 제작 -> <a href="https://play.google.com/store/apps/details?id=com.company.JHScentSelect">ITTIERRA</a>
