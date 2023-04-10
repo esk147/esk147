@@ -12,4 +12,4 @@ skills
 
 projects
 
-- [StudentSoup](https://student.soup)
+- [StudentSoup](https://studentsoup.site)
