@@ -10,8 +10,9 @@ skills
 - <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
 - <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/>
 - <img src="https://img.shields.io/badge/JavaScript-fcba03?style=flat-square&logo=JavaScript&logoColor=white"/>
+- <img src="https://img.shields.io/badge/TypeScript-3495eb?style=flat-square&logo=TypeScript&logoColor=white"/>
 - <img src="https://img.shields.io/badge/React-74BDCD?style=flat-square&logo=React&logoColor=white"/>
-- 
+
 projects
 
 - [StudentSoup](https://studentsoup.site)
